@@ -42,7 +42,9 @@ Position  Team Name                      Points    Goals Scored    Goals Concede
 ```
 ###Supported Leagues
 
-The script accesses the football-data.org API, and can only use their data for the leagues. Currently, the leagues supported are - 
+The script accesses the football-data.org API, and can only use their data for the leagues. 
+
+Currently, the leagues supported are - 
 
 * Bundesliga
 * 2. Bundesliga
