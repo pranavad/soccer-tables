@@ -6,9 +6,9 @@ Up to date association football league tables, made with Python
 A simple python script which gets the current league table for various football leagues of the world. It uses the [football-data API](football-data.org).
 
 # How to use
-1.Run the script
-2.Input the League ID and press Enter
-3.The League table for the selected league will be displayed
+1. Run the script
+2. Enter the required League ID
+3. The League table for the selected league will be displayed.
 
 # Requirements
 
@@ -40,4 +40,21 @@ Position  Team Name                      Points    Goals Scored    Goals Concede
 5         West Ham United FC              35          33               24                9
 ... 
 ```
+###Supported Leagues
+
+The script accesses the football-data.org API, and can only use their data for the leagues. Currently, the leagues supported are - 
+
+* Bundesliga
+* 2. Bundesliga
+* Ligue 1
+* Ligue 2
+* Barclays Premier League
+* Primera Division
+* Segunda Division
+* Serie A
+* Primeira Liga
+* 3. Bundesliga
+* Eredivisie
+
+The API used can be found [here](http://api.football-data.org/)
 
